@@ -1,0 +1,24 @@
+
+B
+java:S3010"%Remove this assignment of "runnable".(±íÎ¬8•ñšªŞ/
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(–’ˆ•
+Q
+java:S2696)"6Make the enclosing method "static" or remove this set.(İ¹’ıÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(åÅûÿúÿÿÿÿ
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(¢¥×
+Q
+java:S26966"6Make the enclosing method "static" or remove this set.(İ¹’ıÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(…ÅáĞıÿÿÿÿ
+v
+java:S1104	"TMake runnable a static final constant or non-public and provide accessors if needed.(‚¦÷šıÿÿÿÿ8÷Ã›ªŞ/
+e
+java:S1104
+"OMake num a static final constant or non-public and provide accessors if needed.(ì¡×‹
+k
+java:S1104"PMake flag a static final constant or non-public and provide accessors if needed.(›íüÿÿÿÿ
+P
+java:S1444	".Make this "public static runnable" field final(‚¦÷šıÿÿÿÿ8÷Ã›ªŞ/
+?
+java:S1444
+")Make this "public static num" field final(ì¡×‹
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ•îüÿÿÿÿ

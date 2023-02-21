@@ -1,0 +1,23 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "str1".(†ìŞ‡
+X
+java:S1854"=Remove this useless assignment to local variable "stuBuild2".(ÏïÃ«üÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "stuBuild1".(…ÀøÛşÿÿÿÿ
+I
+java:S1481".Remove this unused "stuBuild1" local variable.(…ÀøÛşÿÿÿÿ
+I
+java:S1481".Remove this unused "stuBuild2" local variable.(ÏïÃ«üÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(³’…ûÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ò–² ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò–² ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï„İÊÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(·’Åv
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì–®º
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ˜Öç
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ã…¬¸ùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ˜óúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®®½ñ

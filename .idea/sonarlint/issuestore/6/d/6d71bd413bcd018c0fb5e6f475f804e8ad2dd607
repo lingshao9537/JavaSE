@@ -1,0 +1,8 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "str".(ªìçªúÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(ªìçªúÿÿÿÿ
+C
+java:S1481"(Remove this unused "str" local variable.(ªìçªúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ

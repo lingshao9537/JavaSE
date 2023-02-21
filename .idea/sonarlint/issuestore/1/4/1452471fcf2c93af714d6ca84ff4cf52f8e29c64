@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áƒüšÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê˜·Òÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(şşÅÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÕ•îüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹å…úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š·ùšùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈƒËµşÿÿÿÿ
+W
+java:S5842"<Rework this part of the regex to not match the empty string.(É»º¬ùÿÿÿÿ
+R
+java:S5842""<Rework this part of the regex to not match the empty string.(…ï£õ
+g
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(£Üñõüÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êà©‘
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üñ´·úÿÿÿÿ

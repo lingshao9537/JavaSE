@@ -1,0 +1,8 @@
+
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(­öÿÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ºã‹º
+\
+java:S1192%"FDefine a constant instead of duplicating this literal "list5" 3 times.(¯Âü«
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïş¯Şúÿÿÿÿ

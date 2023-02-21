@@ -1,0 +1,27 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ñÛîŠ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ş¹‡¥şÿÿÿÿ
+B
+java:S3599",Use another way to initialize this instance.(ñÛîŠ
+o
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ñÛîŠ
+G
+java:S3599",Use another way to initialize this instance.(Ş¹‡¥şÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Ş¹‡¥şÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(„­¨ıÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ç…‘êıÿÿÿÿ
+A
+java:S1602L",Remove useless curly braces around statement(èĞ=
+U
+java:S1612L"@Replace this lambda with method reference 'System.out::println'.(èĞ=
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(æ¯½ëùÿÿÿÿ
+Y
+java:S1155B">Use isEmpty() to check whether the collection is empty or not.(Ÿâş—üÿÿÿÿ
+Y
+java:S1155G">Use isEmpty() to check whether the collection is empty or not.(óËé úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üñ´·úÿÿÿÿ
+R
+java:S2589G"7Remove this expression which always evaluates to "true"(óËé úÿÿÿÿ

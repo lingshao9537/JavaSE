@@ -1,0 +1,22 @@
+
+\
+java:S1854%"ARemove this useless assignment to local variable "stringBuffer3".(æúµãşÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(÷Ñ‰ûüÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¶Ôçò
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦£ıî
+V	java:S125"<This block of commented-out lines of code should be removed.(›ØÕùÿÿÿÿ
+W	java:S899"=Do something with the "boolean" value returned by "renameTo".(Ë§“àúÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(½Ú‹ßøÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¶¼˜Âşÿÿÿÿ
+\	java:S899C"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+W	java:S899D"BDo something with the "boolean" value returned by "createNewFile".(á‡³
+>	java:S108E")Either remove or fill this block of code.(”ı¾
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹Çô
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚’£Óúÿÿÿÿ
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùı„ÿÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öûÂ¸ıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É«êò
+b	java:S101K"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ …
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üñ´·úÿÿÿÿ

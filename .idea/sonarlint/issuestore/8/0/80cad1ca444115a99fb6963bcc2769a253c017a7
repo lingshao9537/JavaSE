@@ -1,0 +1,35 @@
+
+O
+java:S1854L"9Remove this useless assignment to local variable "cateC".(×Ì¹Ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å±‹Ïûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¢Âùûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼¸‰±ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şİ„õùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ãûÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í‰‹şşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÚ³Ì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯šô—ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŸ±§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„Àöè
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ßÇå‡úÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(§²Ÿúÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(éŸC
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÔßÂèşÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ğ¸æåıÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¼Ëíøÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(¶ÿ¿ú
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Öœ‚…
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(±èâàüÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Ã¤³£
+M	java:S106F"9Replace this use of System.out or System.err by a logger.(Šœ© 
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(±èâàüÿÿÿÿ
+@
+java:S1481L"*Remove this unused "cateC" local variable.(×Ì¹Ä
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Øµ÷¡
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(À½Œıÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(÷Äƒ…
+p
+java:S1192O"ZDefine a constant instead of duplicating this literal "cateA å’Œ cateB æ¯”è¾ƒï¼š" 3 times.(Øµ÷¡
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿÎòïÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®®½ñ
