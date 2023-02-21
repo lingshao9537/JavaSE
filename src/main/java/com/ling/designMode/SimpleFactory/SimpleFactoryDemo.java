@@ -1,4 +1,4 @@
-package com.designmode.SimpleFactory;
+package com.ling.designMode.SimpleFactory;
 
 import java.util.Scanner;
 
