@@ -1,4 +1,4 @@
-package com.ling.designMode.Proxy;
+package com.ling.designMode.proxy.staticProxy;
 
 /**
  * 静态代理
